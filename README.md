@@ -1,6 +1,6 @@
 # amazon-alexa-skill
 
-Amazon Alexa Skill Python API
+Amazon Alexa Skill Python API Implementation
 
 Support Request:
 
